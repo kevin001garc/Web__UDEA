@@ -33,7 +33,7 @@ export class UI {
       <h1>Resultado</h1>
       <h2 id="score">Tu calificacion es: ${score}</h2>
       <br>
-      <a href="/ua.html" class="regresar">Terminar</a>
+      <a href="/index.html" class="regresar">Terminar</a>
       `;
     // <h2 id="score">Your scores: ${quiz.score}</h2>
 
